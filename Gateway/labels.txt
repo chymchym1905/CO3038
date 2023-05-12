@@ -1,0 +1,3 @@
+0 ko khong trang
+1 khau trang
+2 ko nguoi
