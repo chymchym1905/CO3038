@@ -1,4 +1,4 @@
-Gateway/**/__pycache__/
+Gateway/**/__pycache__/*
 AndroidProject/**/.gradle/
 AndroidProject/**/.idea/
 AndroidProject/**/.DS_Store
