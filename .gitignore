@@ -1,6 +1,6 @@
 Gateway/**/__pycache__/
 
-STM32F103RB/**/.settings/
+STM32F103RB/.settings
 
 AndroidProject/**/.gradle/
 AndroidProject/**/.idea/
