@@ -1,3 +1,5 @@
 *.c linguist-vendored
 *.h linguist-vendored
+makefile linguist-vendored
+*.mk linguist-vendored
 STM32F103RB/* linguist-vendored
